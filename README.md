@@ -1,11 +1,11 @@
 # adobe_challenge
 This repository will contain the code for the Adobe Challenge we received. It will serve as a central location for all related scripts, documentation, and updates throughout the project.
 
-**Description about the Project**
+**DESCRIPTION ABOUT THE PROJECTt**
 
 The project involved enhancing image processing by refining and completing curves within test case images. The goal was to smooth, join, and regularize irregular or broken curves, ensuring a more accurate and consistent output. The project also focused on removing extraneous elements outside defined boundaries, ultimately improving the precision and reliability of the image processing model. This was a crucial step in refining our model’s ability to handle complex input data effectively.
 
-**How we dealt with the problem statement?**
+**HOW WE DEALT WITH THE PROBLEM STATEMENT?**
 - Initial Image Data Handling: Developed a script to convert CSV data of images into JPG format, enabling smooth and efficient processing by the model.
 - Shape Detection and Annotation: Implemented detection algorithms to identify and annotate various shapes within the uploaded images.
 - Bezier Curves Application: Used Bezier curves to smooth and regularize the detected shapes, ensuring more accurate and visually appealing results.
@@ -18,11 +18,15 @@ The project involved enhancing image processing by refining and completing curve
 - Final Testing and Refinement: Conducted thorough testing with various test case images to validate the accuracy of the model.
 Refined the algorithms based on test results to improve performance and reliability.
 
-**Description of the Files present in the Repository**
+**EXAMPLE**
+![Test Image](https://github.com/user-attachments/assets/6cb8489c-9604-4eb4-8bca-07597c49a646) ![Test Image Solution](https://github.com/user-attachments/assets/f2257968-ade4-4e0e-a73d-5788c5dcd2ea)
+
+**DESCRIPTION OF THE FILES PRESENT IN THE REPOSITORY**
 1. a1.py -> This file was originally created to handle the detection and annotation of shapes identified in the uploaded images.
 2. csvtojpg.py -> This file was developed to convert CSV data of images into JPG format, enabling smooth and efficient model execution.
 3. merge.py -> This file handles shape detection and annotation, regularization, symmetry analysis, occlusion of incomplete curves, and image completion.
 4. merged.py -> Everything is similar as in merge.py except for the fact that this code does not annotate the shapes present in the image.
-5. Test_cases_images -> This folder contains the test images used to run the model.
+5. Test_cases_images -> This folder contains the test images used to run 
+the model.
 6. Test_cases_solutions -> This folder contains the output images afte the test case images are run in the model.
 
