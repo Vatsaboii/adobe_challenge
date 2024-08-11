@@ -1,7 +1,7 @@
 # adobe_challenge
 This repository will contain the code for the Adobe Challenge we received. It will serve as a central location for all related scripts, documentation, and updates throughout the project.
 
-**DESCRIPTION ABOUT THE PROJECTt**
+**DESCRIPTION ABOUT THE PROJECT**
 
 The project involved enhancing image processing by refining and completing curves within test case images. The goal was to smooth, join, and regularize irregular or broken curves, ensuring a more accurate and consistent output. The project also focused on removing extraneous elements outside defined boundaries, ultimately improving the precision and reliability of the image processing model. This was a crucial step in refining our model’s ability to handle complex input data effectively.
 
@@ -20,8 +20,8 @@ Refined the algorithms based on test results to improve performance and reliabil
 
 **EXAMPLE**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cb8489c-9604-4eb4-8bca-07597c49a646" width="200" alt="Test Image"/>
-  <img src="https://github.com/user-attachments/assets/f2257968-ade4-4e0e-a73d-5788c5dcd2ea" width="200" alt="Test Image Solution"/>
+  <img src="https://github.com/user-attachments/assets/6cb8489c-9604-4eb4-8bca-07597c49a646" width="300" alt="Test Image"/>
+  <img src="https://github.com/user-attachments/assets/f2257968-ade4-4e0e-a73d-5788c5dcd2ea" width="300" alt="Test Image Solution"/>
 </p>
 
 **DESCRIPTION OF THE FILES PRESENT IN THE REPOSITORY**
