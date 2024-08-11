@@ -20,8 +20,8 @@ Refined the algorithms based on test results to improve performance and reliabil
 
 **EXAMPLE**
 <p align="center">
-  <img src="[path/to/image1.jpg](https://github.com/user-attachments/assets/6cb8489c-9604-4eb4-8bca-07597c49a646)" width="200" alt="Test Image"/>
-  <img src="[path/to/image2.jpg](https://github.com/user-attachments/assets/f2257968-ade4-4e0e-a73d-5788c5dcd2ea)" width="200" alt="Test Image Solution"/>
+  <img src="https://github.com/user-attachments/assets/6cb8489c-9604-4eb4-8bca-07597c49a646" width="200" alt="Test Image"/>
+  <img src="https://github.com/user-attachments/assets/f2257968-ade4-4e0e-a73d-5788c5dcd2ea" width="200" alt="Test Image Solution"/>
 </p>
 
 **DESCRIPTION OF THE FILES PRESENT IN THE REPOSITORY**
